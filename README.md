@@ -1,0 +1,2 @@
+# repositoriojuan
+Algo para practicar 
